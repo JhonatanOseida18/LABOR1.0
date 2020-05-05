@@ -1,0 +1,27 @@
+Producto: Huawei P30 Pro
+ Cantidad: 20
+ Valor: 8000
+Producto: Samsung S20 Ultra
+ Cantidad: 10
+ Valor: 14000
+Producto: Xiaomi Mi 9T
+ Cantidad: 30
+ Valor: 3000
+Producto: Motorola 5t
+ Cantidad: 15
+ Valor: 2100
+Producto: Dell
+ Cantidad: 20
+ Valor: 6000
+Producto: Xiaomi
+ Cantidad: 20
+ Valor: 4000
+Producto: Xiaomi Mi 9T
+ Cantidad: 20
+ Valor: 3000
+Producto: VAIO
+ Cantidad: 50
+ Valor: 3600
+Producto: Let
+ Cantidad: 10
+ Valor: 1000
